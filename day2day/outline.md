@@ -1,29 +1,87 @@
-This document is a template for creating an outline of a new learning path segment.
+# Incorporating into Sprints aka Day-to-Day InnerSource activities Learning Path Outline
 
-Make a copy of it, fill it out, and open a pull request to a repo you own to get feedback on it _before_ creating your specific content.
-This step will sharpen your focus and reduce spin and wasted effort on the more expensive final product.
+## Learning Goals
 
-# Audience
+- The need for the day-to-day guide
+- Understanding of the responsibilities of the Trusted Committer (TC)
+- Different ways to become TC
+- TC lifecycle (bringing on successors, sunsetting)
+- Useful skills/attitude/emotional maturity
+- TC antipatterns
+- Why is the TC role important for IS success
 
-_Who is the intended audience for your segement?_
-_Be as specific as possible, as it will help you to focus and streamline your content._
+## Target Audience
 
-# Takeaways
+- Teams who engage into InnerSource work, both Trusted Committers and Contributors
+- People who work/interface with these teams 
+    - Product Owners
+    - Scrum masters
+    - Project management
+    - Team leaders
 
-_What are the key points that you want viewers to walk away from after the segment?_
+## Outline
 
-# Outline
+### Definition
 
-* Bulleted
-* Description
-* Of key points
+- Glossary
+    - Contributor/Guest
+        - Responsible for "fitting in"/conforming to the host team and it's
+          expectations/processes.
+    - Product Owner (distinction btw. Guest and Host PO)
+    - TC
+        - TC has rights to push code closer to production than a contributor
+        - also known as _Host_
+        - has privileges that an admin or Apache committer would have but it is
+          a job, irrespective of the permissions. 
+        - Maintainer/Owner (conflict with _maintainer_ role in GitHub)
+        - Committer is not an IS term. Apache uses this term to denote a tech
+          leadership role (TC++)
+        - The TC role is defined by its responsibilities, rather than by its
+          privileges.
 
-  * subpoints
-  * examples
-  * anecdotes
+- at PayPal, the discussion surrounding the name of the role was very
+  challenging.  i. e.: the name matters.
 
-* And flow of ideas
-* For your presentation
+### Responsibilities
 
-_Readers of this outline should be able to understand how you're going to go about presenting your content._
-_It shouldn't be any longer than one screen of vertical text._
+**Tech oriented**
+- Keep SW development running smoothly
+- Ensure quality and longevity of the SW at a strategic level
+- Ensure that decisions regarding quality and longevity of the SW are
+  enact/follow/implement/...
+- Own decisions regarding the community/process/technology, even if they didn't
+  make it themselves.
+- Reviewing and accepting contributions (including making sure they conform to
+  the guidelines)
+- Responsible for communicating contribution guidelines (possibly also
+  validating and setting guidelines)
+- Responsible for making sure undocumented requirements will be documented 
+  (not necessarily do it herself)
+
+**Community oriented**
+- TC has to be aware of the communities needs
+- TC has to advocate the communities interests
+- Reducing the barriers for entry into the community
+- Onboarding new contributors
+    - Making sure the new contributor is prepared/educated to make the next
+      contribution
+- Upleveling the capabilities of the community members to use and contribute to
+  the project  
+    - Mentoring/Coaching during the process of contributors making a
+      contribution
+- Set up the right process for the community 
+- Fostering the community
+    - enforcing the code of conduct
+- 
+
+### Lifecycle
+
+- There might well be multiple TCs in one project
+- 
+
+## Ideas
+
+- Possibly two videos: one for being and one for becoming a TC
+- The contributor learning path (LP) video should lay out what a contributor
+  can expect from a/his TC
+- Idea for a new LP: InnerSource careers
