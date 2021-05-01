@@ -23,26 +23,21 @@
 
 ### Definition
 
-- Glossary
+- Introduction
+    - Why do we need this guide
+- Project prerequisites
+    - InnerSource checklist
+        - Checklist details here
+- Contribution prerequisites
     - Contributor/Guest
-        - Responsible for "fitting in"/conforming to the host team and it's
-          expectations/processes.
     - Product Owner (distinction btw. Guest and Host PO)
     - TC
-        - TC has rights to push code closer to production than a contributor
-        - also known as _Host_
-        - has privileges that an admin or Apache committer would have but it is
-          a job, irrespective of the permissions. 
-        - Maintainer/Owner (conflict with _maintainer_ role in GitHub)
-        - Committer is not an IS term. Apache uses this term to denote a tech
-          leadership role (TC++)
-        - The TC role is defined by its responsibilities, rather than by its
-          privileges.
+        - XXX
 
 - at PayPal, the discussion surrounding the name of the role was very
   challenging.  i. e.: the name matters.
 
-### Responsibilities
+### Spring Planning
 
 **Tech oriented**
 - Keep SW development running smoothly
@@ -74,14 +69,17 @@
     - enforcing the code of conduct
 - 
 
-### Lifecycle
+### During the Sprint
 
 - There might well be multiple TCs in one project
 - 
 
-## Ideas
+### After the Sprint
 
-- Possibly two videos: one for being and one for becoming a TC
-- The contributor learning path (LP) video should lay out what a contributor
-  can expect from a/his TC
-- Idea for a new LP: InnerSource careers
+- There might well be multiple TCs in one project
+- 
+
+### References
+
+- The Contributor section of the InnerSource learning path
+- The Trusted Committer section of the InnerSource learning path 
