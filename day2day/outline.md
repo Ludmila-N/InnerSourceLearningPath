@@ -22,6 +22,7 @@
 ### Introduction
 
 - Why do we need this guide
+- 
 
 ### Project prerequisites
 - InnerSource checklist
